@@ -87,6 +87,9 @@ a {
     height: 1.5em;
     transform: translateY(0.8em);
 }
+.pon {
+    transform: translateY(0.5em);
+}
 .ava {
     border-radius: 100%;
     margin-right: 0.5em;
